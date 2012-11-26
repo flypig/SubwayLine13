@@ -1,6 +1,6 @@
 SubwayLine13
 ============
 
-A lonely journey
-
-What make a people believe the god?
+这是一条孤独地线路
+不知道从哪儿里来
+也不知道要到哪里去
