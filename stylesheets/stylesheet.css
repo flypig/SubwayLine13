@@ -13,12 +13,10 @@ body {
 .container {
   width: 90%;
   max-width: 600px;
-  margin: 0 auto;
 }
 
 section {
   display: block;
-  margin: 0 0 20px 0;
   border-bottom: 1px dashed #b5e853;
 }
 
@@ -80,11 +78,13 @@ header h2 {
 
 #main_content {
   width: 100%;
+  margin: 0,0,20px,100px
   -webkit-font-smoothing: antialiased;
 }
 
 #quota {
   width: 100%;
+  margin: 0,0,20px,700px
   -webkit-font-smoothing: antialiased;
 }
 section img {
