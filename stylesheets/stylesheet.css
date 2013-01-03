@@ -78,13 +78,13 @@ header h2 {
 
 #main_content {
   width: 100%;
-  margin: 0,0,20px,100px
+  margin: 0,0,20px,100px;
   -webkit-font-smoothing: antialiased;
 }
 
 #quota {
   width: 100%;
-  margin: 0,0,20px,700px
+  margin: 0,0,20px,700px;
   -webkit-font-smoothing: antialiased;
 }
 section img {
